@@ -1,14 +1,5 @@
----
-title: AO3 Skin-UglyNeon
-date: 2025-09-07
-tags: [WorkSkin Code]
-categories: ao3相关
-description: 想给自己写的车添加一些氛围感（），然后找D老师做了一个Neon感skin...
----
 HTML真的好反中文，首行缩进只会识别换段，不会识别换行！！！没事，我自会自己加空格（西八呀！！！😡😡😡  
 做出来效果好土啊！！！😡😡😡  
-效果如下：  
-![图片](./img/9a1349514aa97af9b75cef503a7cf61f.jpg "好土")
 
 ```
 #workskin {
