@@ -52,6 +52,7 @@ npm install
 &emsp;&emsp;现在可以到Hexo官网选择喜欢的皮肤，并根据发布者提供的指引进行安装以及个性化修改~  
 &emsp;&emsp;推荐两个皮肤，都是非常成熟，功能超多的，但体感自定义空间较少...  
 [Butterfly](https://butterfly.js.org/)
+
 [maupassant](https://www.haomwei.com/technology/maupassant-hexo.html)
 
 # 文章部署流程  
@@ -85,7 +86,8 @@ categories: xxx
 
 ⬆️ Frountmatter
 &emsp;&emsp;建议把“date”的时间删除，仅留下日期，因为comfig文件内没有时间配置，无法识别时间，导致部署报错。  
-&emsp;&emsp;“tags”、“categories”等可以自定义，Hexo会根据文章的tags自动汇总所有标签，并生成标签页（需主题支持）。  
+&emsp;&emsp;“tags”、“categories”等可以自定义，Hexo会根据文章的tags自动汇总所有标签，并生成标签页（需主题支持）。 
+
 [Markdown语法学习](https://markdown.com.cn/)
 
 ## 上传步骤
